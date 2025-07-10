@@ -11,6 +11,9 @@ Interactive Power BI professional dashboard of Q1 2019 supermarket sales - da
 
 This project offers a comprehensive interactive Power BI dashboard that analyzes 1,000 real transactions from a supermarket chain with three branches (Yangon, Naypyitaw, and Mandalay) between January and March 2019. It shows the data processing from start to finish:
 
+ **Dataset download** from Kaggle:  
+   https://www.kaggle.com/datasets/willianoliveiragibin/market-sales-data
+
 ## 🛠 Tools Used
 
 - **LibreOffice Calc** – Data cleaning & column creation
@@ -32,3 +35,19 @@ Highlights:
 - Customer type: Member
 - Total Units Sold by Product line
 
+## 📊 Analysis and Interpretation
+
+This analysis allows a supermarket to:
+
+- Identify the most profitable product lines by revenue and units.
+- Compare branch performance and make investment decisions.
+- Observe month-to-month sales growth (trends).
+- Analyze behavior by customer type (loyalty).
+- Evaluate the average ticket for campaigns or price adjustments.
+
+### What was detected in this case?
+
+- Branch **C** leads in sales (more than $111,000).
+- **Member** customers generate slightly higher tickets → useful for loyalty.
+- Categories such as **Food & Beverages** and **Electronic Accessories** stand out in revenue and volume.
+- The analysis allows **promotions, stock, and campaigns to be adjusted** according to actual behavior.
