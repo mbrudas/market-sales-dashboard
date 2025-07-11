@@ -1,9 +1,6 @@
-# Market-sales-dashboard
+# 🛒 Supermarket Sales Dashboard (Power BI)
+
 Interactive Power BI professional dashboard of Q1 2019 supermarket sales - data cleansing in LibreOffice Calc, modeling in SQLite, analysis with DAX and visuals designed for decision‑makers.
-
-**Initial note: This mini-project was developed as a personal initiative to improve my technical skills. The entire workflow was executed by me from start to finish, from cleaning to visualization. I am sharing it publicly as a demonstration of my capabilities as a data analyst.**
-
-# Supermarket sales dashboard
 
 **Interactive analysis of supermarket retail sales in the first quarter of 2019**  
 
@@ -23,6 +20,20 @@ This project offers a comprehensive interactive Power BI dashboard that analyzes
 - **LibreOffice Calc** – Data cleaning & column creation
 - **SQLite (via Anaconda CLI)** – Data modeling & SQL queries
 - **Power BI Desktop** – Power Query transformation + DAX visual analysis
+
+## 📁 Project structure
+
+market-sales-dashboard/
+│
+├── docs/                            # Dashboard files
+│   ├── Market_sales_dashboard.pdf   # Exported Power BI report (PDF)
+│   └── Market_sales_dashboard.pbix  # Power BI project file
+│
+├── images/                          # Visual resources
+│   └── Market_Sales_Dashboard.png   # Screenshot preview of the dashboard
+│
+├── README.md                        # Main documentation file
+└── LICENSE                          # MIT license for open use
 
 ## 📈 Key Business Metrics
 
@@ -55,3 +66,10 @@ This analysis allows a supermarket to:
 - **Member** customers generate slightly higher tickets → useful for loyalty.
 - Categories such as **Food & Beverages** and **Electronic Accessories** stand out in revenue and volume.
 - The analysis allows **promotions, stock, and campaigns to be adjusted** according to actual behavior.
+
+## ℹ️ Notes
+
+This project was created as a personal initiative to reinforce my technical skills in real-world data workflows. I executed the entire process from raw data to visual insights, including cleansing, modeling, and dashboard design.
+
+I'm sharing it publicly to demonstrate my capabilities as a data analyst and my commitment to continuous learning.
+
