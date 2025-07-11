@@ -14,6 +14,10 @@ This project offers a comprehensive interactive Power BI dashboard that analyzes
  **Dataset download** from Kaggle:  
    https://www.kaggle.com/datasets/willianoliveiragibin/market-sales-data
 
+## 🖼️ Dashboard preview
+
+![Dashboard Preview](images/Market_Sales_Dashboard.png)
+
 ## 🛠 Tools Used
 
 - **LibreOffice Calc** – Data cleaning & column creation
