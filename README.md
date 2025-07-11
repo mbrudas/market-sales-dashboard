@@ -1,5 +1,7 @@
 # 🛒 Supermarket Sales Dashboard (Power BI)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Interactive Power BI professional dashboard of Q1 2019 supermarket sales - data cleansing in LibreOffice Calc, modeling in SQLite, analysis with DAX and visuals designed for decision‑makers.
 
 **Interactive analysis of supermarket retail sales in the first quarter of 2019**  
@@ -72,4 +74,21 @@ This analysis allows a supermarket to:
 This project was created as a personal initiative to reinforce my technical skills in real-world data workflows. I executed the entire process from raw data to visual insights, including cleansing, modeling, and dashboard design.
 
 I'm sharing it publicly to demonstrate my capabilities as a data analyst and my commitment to continuous learning.
+
+## 👩‍💻 About Me
+
+I’m María Brudas, a geologist with professional experience in geospatial data analysis, sediment modeling, and technical reporting. My background includes the integration of traditional geoscientific methods with digital tools for 3D facies modeling, spatial data processing, and field data management.
+
+Recently, I’ve complemented my profile with formal training in data analytics—adding tools such as Power BI, SQL (SQLite), Python, and data visualization techniques to my workflow. This combination allows me to:
+
+- Translate complex data into actionable insights  
+- Apply analytical thinking to both scientific and commercial environments  
+- Deliver clear, structured results through dashboards and reports
+
+This dashboard project is part of my ongoing transition into the data analytics field. I’m currently open to opportunities that value multidisciplinary thinking, technical rigor, and a strong commitment to real-world problem solving.
+
+📫 [LinkedIn Profile](https://www.linkedin.com/in/mariabrudas)  
+🌍 Based in Buenos Aires, Argentina  
+🚀 Open to freelance or full-time roles in BI, analytics, or data strategy.
+
 
