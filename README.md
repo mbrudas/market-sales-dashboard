@@ -34,7 +34,14 @@ market-sales-dashboard/
 ├── images/                          # Visual resources
 │   └── Market_Sales_Dashboard.png   # Screenshot preview of the dashboard
 │
-├── README.md                        # Main documentation file
+├── README.md                        # Full project documentation including:
+│   ├── Project Overview
+│   ├── Tools Used
+│   ├── Business KPIs
+│   ├── Business Interpretation
+│   ├── Key Insights & Recommendations
+│   ├── Notes & About the Analyst
+│
 └── LICENSE                          # MIT license for open use
 
 ## 📈 Key Business Metrics
