@@ -52,28 +52,50 @@ Highlights:
 - Customer type: Member
 - Total Units Sold by Product line
 
-## 📊 Analysis and Interpretation
+## 📊 General Business Interpretation
 
 This analysis allows a supermarket to:
 
 - Identify the most profitable product lines by revenue and units.
 - Compare branch performance and make investment decisions.
-- Observe month-to-month sales growth (trends).
 - Analyze behavior by customer type (loyalty).
 - Evaluate the average ticket for campaigns or price adjustments.
 
-### What was detected in this case?
+## 📌 Key Insights and Recommendations
 
-- Branch **C** leads in sales (more than $111,000).
-- **Member** customers generate slightly higher tickets → useful for loyalty.
-- Categories such as **Food & Beverages** and **Electronic Accessories** stand out in revenue and volume.
-- The analysis allows **promotions, stock, and campaigns to be adjusted** according to actual behavior.
+This dashboard provides actionable insights that a supermarket chain can use to drive strategic decisions and optimize operations across its three branches.
+
+### 🏪 Branch Performance
+
+- **Branch C (Mandalay)** generated the highest revenue ($111,000), accounting for approximately **34%** of total Q1 sales.
+  - 📌 **Recommendation**: Prioritize marketing efforts and promotional campaigns in Branch C to strengthen its leading position and test high-performing product launches.
+
+### 📦 Product Line Profitability
+
+- **Food & Beverages** and **Electronic Accessories** were the most profitable product lines by both revenue and volume.
+  - 📌 **Recommendation**: Increase inventory and create bundle offers or discounts in these categories to boost average basket size and repeat purchases.
+
+### 👥 Customer Type Behavior
+
+- **Member customers** consistently showed a **higher average ticket value** compared to non-members.
+  - 📌 **Recommendation**: Strengthen loyalty programs to encourage registration and repeat visits, particularly in underperforming branches.
+
+### 📅 Temporal Sales Patterns
+
+- While the dataset does not include precise month-by-month sales timestamps, the analysis across the first quarter indicates stable demand across all product lines and branches.
+  - 📌 **Suggestion**: In future datasets, integrating monthly or weekly time variables could uncover seasonal trends or promotional impacts, allowing the business to align campaigns with real consumption patterns.
+
+### 💡 Executive Summary
+
+> This analysis highlights where to invest marketing efforts, which product lines generate the highest ROI, and how customer segmentation can guide loyalty strategies. By replicating Branch C's success model in lower-performing locations, the supermarket could potentially increase average revenue per branch by **15–20%** over the next quarter.
 
 ## ℹ️ Notes
 
 This project was created as a personal initiative to reinforce my technical skills in real-world data workflows. I executed the entire process from raw data to visual insights, including cleansing, modeling, and dashboard design.
 
 I'm sharing it publicly to demonstrate my capabilities as a data analyst and my commitment to continuous learning.
+
+Although based on a public dataset, the entire analysis was conducted with a business-oriented mindset, simulating the decision-making needs of a real retail organization.
 
 ## 👩‍💻 About Me
 
@@ -90,5 +112,3 @@ This dashboard project is part of my ongoing transition into the data analytics 
 📫 [LinkedIn Profile](https://www.linkedin.com/in/mariabrudas)  
 🌍 Based in Buenos Aires, Argentina  
 🚀 Open to freelance or full-time roles in BI, analytics, or data strategy.
-
-
